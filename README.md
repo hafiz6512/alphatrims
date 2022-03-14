@@ -1,6 +1,8 @@
 # alphatrims
 This is a wordPress site. 
 
+![AlphaTrims Theme Screenshot](https://github.com/hafiz6512/alphatrims/blob/main/screenshot.png)
+
 ## Devloper Website
 ### [Diehardcoder](http://diehardcoder.com)
 
