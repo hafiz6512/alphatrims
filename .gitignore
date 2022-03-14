@@ -15,6 +15,7 @@ wp-content/*
 !wp-config.php
 !.gitignore
 !README.md
+!screenshot.png
 
 # ignore these plugins
 wp-content/plugins/hello.php
