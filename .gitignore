@@ -1,13 +1,20 @@
-# ignore everything in the root except the "wp-content" directory.
+# ignore everything in the root except the "wp-content, comingsoon" directory.
+/*
 !wp-content/
+!comingsoon/
 
 # ignore everything in the "wp-content" directory, except:
-# "mu-plugins", "plugins", "themes" directory
+# "mu-plugins", "plugins", "themes", "uploads" directory
 wp-content/*
 !wp-content/mu-plugins/
 !wp-content/plugins/
 !wp-content/themes/
 !wp-content/uploads/
+
+# Ignore Configuration File
+!wp-config.php
+!.gitignore
+!README.md
 
 # ignore these plugins
 wp-content/plugins/hello.php
