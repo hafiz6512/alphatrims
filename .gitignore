@@ -16,6 +16,7 @@ wp-content/*
 !.gitignore
 !README.md
 !alpha-trims-home.jpg
+!wp-content/mysql.sql
 
 # ignore these plugins
 wp-content/plugins/hello.php
