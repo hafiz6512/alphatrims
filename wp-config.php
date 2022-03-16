@@ -81,6 +81,13 @@ define( 'WP_DEBUG', false );
 
 /* That's all, stop editing! Happy publishing. */
 
+define( 'WP_MEMORY_LIMIT', '256M' );
+define( 'WP_HTTP_BLOCK_EXTERNAL', true );
+define( 'AUTOMATIC_UPDATER_DISABLED', true );
+
+define( 'WP_HOME', 'http://alphatrims.local' );
+define( 'WP_SITEURL', 'http://alphatrims.local' );
+
 /** Absolute path to the WordPress directory. */
 if ( ! defined( 'ABSPATH' ) ) {
 	define( 'ABSPATH', __DIR__ . '/' );
